@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gopika G  
 
-🚀 Embedded Systems Engineer | Trainer at Evolve Robotics  
+🚀 Embedded Systems Engineer | at Evolve Robotics  
 🎓 Electronics & Communication Engineering Graduate (2023)  
 📍 India  
 
@@ -10,7 +10,7 @@ I’m passionate about building real-world embedded solutions and teaching other
 
 ## 🧠 About Me
 
-- 🔧 Embedded Systems Trainer at **Evolve Robotics**  
+- 🔧 Embedded Systems Engineer at **Evolve Robotics**  
 - 🛠 Skilled in Embedded C, Microcontrollers, and Protocols  
 - 🎯 Focused on practical, hardware-oriented learning  
 - 🎥 Creating content on Embedded Systems & Interview Prep  
